@@ -302,5 +302,3 @@ lancium_smart_response/media/
 *.bak
 *.gz
 htmlcov
-
-meter_simulation_config.json
